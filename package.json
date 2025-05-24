@@ -1,0 +1,21 @@
+{
+  "name": "atv-03ppi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiltonJR7/ATV-03PPI.git"
+  },
+  "author": "Milton de Oliveira Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiltonJR7/ATV-03PPI/issues"
+  },
+  "homepage": "https://github.com/MiltonJR7/ATV-03PPI#readme",
+  "description": ""
+}
